@@ -33,7 +33,7 @@
         'resource',
         'sale',
         'purchase',
-        'stock_available_immediately',
+#        'stock_available_immediately', specific to dessus dessous
         ],
     'data': [
         'res_company_view.xml',
